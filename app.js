@@ -1,0 +1,1 @@
+document.write(`<h1>Some shit</h1>`)
